@@ -1,0 +1,6 @@
+{
+  "versionCode": 1,
+  "version": "v1.0",
+  "zipUrl": "https://github.com/GotenAjje/TermoX/releases/latest/download/module.zip",
+  "changelog": "Disables thermal throttling for Snapdragon devices"
+}
